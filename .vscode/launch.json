@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ascending_Array",
+            "request": "launch",
+            "mainClass": "Ascending_Array",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "MaxWealth",
+            "request": "launch",
+            "mainClass": "MaxWealth",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "RBSDuplicate",
+            "request": "launch",
+            "mainClass": "RBSDuplicate",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "RotatedBinarySearch",
+            "request": "launch",
+            "mainClass": "RotatedBinarySearch",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "RowColMatrix",
+            "request": "launch",
+            "mainClass": "RowColMatrix",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "SortedMatrix",
+            "request": "launch",
+            "mainClass": "SortedMatrix",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_Max",
+            "request": "launch",
+            "mainClass": "TwoD_Max",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "TwoD_Search",
+            "request": "launch",
+            "mainClass": "TwoD_Search",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "agnoisticBinarySearch",
+            "request": "launch",
+            "mainClass": "agnoisticBinarySearch",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "binarySeach",
+            "request": "launch",
+            "mainClass": "binarySeach",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "ceilingNumber",
+            "request": "launch",
+            "mainClass": "ceilingNumber",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "conditions",
+            "request": "launch",
+            "mainClass": "conditions",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "findLetter",
+            "request": "launch",
+            "mainClass": "findLetter",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "firstAndLast",
+            "request": "launch",
+            "mainClass": "firstAndLast",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "floor_number",
+            "request": "launch",
+            "mainClass": "floor_number",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "foundIndex",
+            "request": "launch",
+            "mainClass": "foundIndex",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "function_practice",
+            "request": "launch",
+            "mainClass": "function_practice",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "infiniteArraySer_Ele",
+            "request": "launch",
+            "mainClass": "infiniteArraySer_Ele",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "kunalFunction",
+            "request": "launch",
+            "mainClass": "kunalFunction",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "linearCountEven",
+            "request": "launch",
+            "mainClass": "linearCountEven",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "linearMinimum",
+            "request": "launch",
+            "mainClass": "linearMinimum",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "linearSearch",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "linearSearchchar",
+            "request": "launch",
+            "mainClass": "linearSearchchar",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "linearSubArray",
+            "request": "launch",
+            "mainClass": "linearSubArray",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "minMax",
+            "request": "launch",
+            "mainClass": "minMax",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "peekIndexMountain",
+            "request": "launch",
+            "mainClass": "peekIndexMountain",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "peekMountain",
+            "request": "launch",
+            "mainClass": "peekMountain",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "printName",
+            "request": "launch",
+            "mainClass": "printName",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "rotationcount",
+            "request": "launch",
+            "mainClass": "rotationcount",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        },
+        {
+            "type": "java",
+            "name": "searchInMountain",
+            "request": "launch",
+            "mainClass": "searchInMountain",
+            "projectName": "VSCode-For-Java_f654c9a7"
+        }
+    ]
+}
